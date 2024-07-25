@@ -43,6 +43,7 @@ To get started with development, you need to install few tools
    ```shell
     npm --version
    ```
+![alt text](image.png)
 
 ## Setup
 
